@@ -1,0 +1,20 @@
+{
+  "name": "LSPDFR-Support-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.12.2",
+    "enmap": "^5.8.4",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.3"
+  }
+}
